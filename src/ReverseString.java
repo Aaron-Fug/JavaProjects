@@ -1,4 +1,3 @@
-package com.AaronFugar;
 import java.util.Scanner;
 
 public class ReverseString { //Create a "main" class called Reverse String
