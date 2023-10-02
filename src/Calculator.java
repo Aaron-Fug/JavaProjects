@@ -1,4 +1,3 @@
-package com.AaronFugar;
 import java.util.Scanner;
 
 public class Calculator {
